@@ -2,9 +2,9 @@ Chargeur de carte OpenStreetMap
 ===============================
 Ce programme permet d'afficher une carte OpenStreetMap
 
-Fonctionnalit�s :
+Fonctionnalités :
 ------------------------
-Le programme propose l'affichage de données OSM à partir d'un dossier de fichiers JSON.
+Le programme propose l'affichage de données OSM à  partir d'un dossier de fichiers JSON.
 
 Le programme charge par défaut un plan partiel de Lille.
 Il permet également de choisir l'emplacement du dossier.
@@ -27,5 +27,5 @@ office ; place ; power ; public_transport ;
 railway ; route ; shop ; sport ;
 tourism ; waterway
 
-Les donn�es OpenStreetMap peuvent �tre r�cup�r�es sur :
+Les données OpenStreetMap peuvent être récupérées sur :
 http://data.trimble.com/market/provider/OpenStreetMap.html
