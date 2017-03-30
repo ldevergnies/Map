@@ -1,6 +1,5 @@
 package formatage;
 
-import donnees.Line;
 import donnees.Polygon;
 
 public class Polygone implements Cloneable, Comparable<Polygone> {

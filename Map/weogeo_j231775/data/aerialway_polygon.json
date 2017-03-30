@@ -1,6 +1,0 @@
-{"name":"aerialway_polygon","type":"FeatureCollection"
-,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
-,"features":[
-{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-8233677.03,4977177.69],[-8233663.52,4977201.89],[-8233640.84,4977189.2],[-8233648.29,4977175.89],[-8233654.37,4977165.03],[-8233677.03,4977177.69]]]},"properties":{"osm_id":32946753,"aerialway":"station","name":"Roosevelt Island Tramway","name:en":null,"ref":null,"ele":null,"z_order":0}}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-8232555.65,4976603.67],[-8232553.65,4976607.62],[-8232548.22,4976618.41],[-8232543.03,4976628.69],[-8232541.76,4976631.22],[-8232520.94,4976620.64],[-8232509.27,4976614.7],[-8232520.81,4976591.81],[-8232529.61,4976596.27],[-8232531.97,4976591.57],[-8232533.47,4976592.34],[-8232534.93,4976589.46],[-8232538.59,4976591.31],[-8232537.1,4976594.25],[-8232555.65,4976603.67]]]},"properties":{"osm_id":32946762,"aerialway":"station","name":null,"name:en":null,"ref":null,"ele":null,"z_order":10}}
-]}

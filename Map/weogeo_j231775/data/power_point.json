@@ -1,6 +1,0 @@
-{"name":"power_point","type":"FeatureCollection"
-,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-8231423.35,4977482.94]},"properties":{"osm_id":3574804123,"power":"transformer","power_source":null,"generator:source":null,"layer":null,"z_order":null}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8231406.77,4977520.43]},"properties":{"osm_id":3574804124,"power":"transformer","power_source":null,"generator:source":null,"layer":null,"z_order":null}}
-]}

@@ -1,5 +1,0 @@
-{"name":"tourism_line","type":"FeatureCollection"
-,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
-,"features":[
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8238548.49,4974114.92],[-8238552.76,4974088.61],[-8238553.2,4974086.07],[-8238557.1,4974086.19],[-8238557.36,4974078.55],[-8238558.62,4974057.39],[-8238559.42,4974043.76],[-8238563.6,4974043.87],[-8238563.78,4974041.23],[-8238565.43,4974016.18],[-8238554.91,4974015.58],[-8238555.98,4973994.7],[-8238553.25,4973994.55],[-8238553.48,4973990.86],[-8238553.63,4973984.19]]},"properties":{"osm_id":280480585,"tourism":"attraction","name":"The High Line","name:en":null,"amenity":null,"building":null,"historic":null,"access":null,"fee":null,"ele":null,"brand":null,"tower:type":null,"z_order":20}}
-]}

@@ -1,7 +1,6 @@
 package affichage;
 
 import java.awt.BasicStroke;
-import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Point;
@@ -17,9 +16,12 @@ import java.io.File;
 import javax.swing.JPanel;
 
 import formatage.Carte;
-import formatage.FeatureEnum;
 
 public class Panneau extends JPanel implements MouseListener, MouseMotionListener {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private Point startPoint;
 	private Point offset = new Point(0, 0);
 	Carte carte;
@@ -32,7 +34,14 @@ public class Panneau extends JPanel implements MouseListener, MouseMotionListene
 		super();
 		this.addMouseListener(this);
 		this.addMouseMotionListener(this);
-		this.carte = new Carte(new File("C:\\Users\\admin\\workspace\\Map\\weogeo_j230828\\data"));
+		this.carte = new Carte(new File("weogeo_j230828\\data"));
+	}
+	
+	public Panneau (String path) {
+		super();
+		this.addMouseListener(this);
+		this.addMouseMotionListener(this);
+		this.carte = new Carte(new File(path));
 	}
 
 	
@@ -110,21 +119,12 @@ public class Panneau extends JPanel implements MouseListener, MouseMotionListene
 
 	public void mouseMoved(MouseEvent e) {}
 
-	@Override
 	public void mouseClicked(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
 	}
 
-	@Override
 	public void mouseEntered(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
 	}
 
-	@Override
 	public void mouseExited(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
 	}
 }

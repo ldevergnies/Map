@@ -1,5 +1,0 @@
-{"name":"aerialway_line","type":"FeatureCollection"
-,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
-,"features":[
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8233648.29,4977175.89],[-8233569.12,4977135.15],[-8233436.7,4977070.75],[-8233079.36,4976872.97],[-8232548.22,4976618.41]]},"properties":{"osm_id":22886820,"aerialway":"cable_car","name":"Roosevelt Island Tramway","name:en":null,"ref":null,"ele":null,"z_order":20}}
-]}

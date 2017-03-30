@@ -1,5 +1,0 @@
-{"name":"craft_polygon","type":"FeatureCollection"
-,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
-,"features":[
-{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-8232149.9,4975851.42],[-8232147.91,4975854.58],[-8232129.93,4975838.48],[-8232132.7,4975834.08],[-8232134.18,4975831.75],[-8232149.32,4975842.3],[-8232145.85,4975847.79],[-8232149.9,4975851.42]]]},"properties":{"osm_id":281332601,"craft":"brewery","building":"yes","name":"Big Alice Brewing","name:en":null,"addr:housenumber":"8-08","addr:housename":null,"addr:street":"43rd Rd","addr:city":"Long Island City","addr:state":"NY","addr:postcode":"11101","addr:place":null,"addr:country":null,"addr:hamlet":null,"addr:suburb":null,"addr:subdistrict":null,"addr:district":null,"addr:province":null,"website":"http://www.bigalicebrewing.com","contact:website":null,"phone":"+1 347 6882337","contact:phone":null,"opening_hours":"Fr 17:00-21:00;Sa 12:00-20:00;Su 12:00-18:00","brand":null,"z_order":0}}
-]}
