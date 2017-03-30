@@ -1,0 +1,5 @@
+{"name":"place_polygon","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[341042.84,6558001.74],[341063.09,6558029.15],[341103.63,6558101.75],[341171.29,6558041.91],[341149.58,6558007.27],[341107.62,6557969.78],[341042.84,6558001.74]]]},"properties":{"osm_id":395142364,"place":"hamlet","name":"Îlot Comtesse","name:en":null,"population":null,"capital":null,"ele":null,"type":null,"z_order":0}}
+]}

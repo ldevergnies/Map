@@ -1,0 +1,5 @@
+{"name":"craft_polygon","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[341645.11,6557174.69],[341648.17,6557177.99],[341652,6557174.55],[341653.22,6557175.76],[341654.06,6557174.83],[341670.6,6557194.51],[341684.49,6557180.87],[341667.79,6557160.32],[341674.59,6557154.46],[341658.49,6557134.99],[341651.17,6557141.13],[341654.44,6557145],[341659.72,6557151.19],[341647.36,6557162.2],[341651.84,6557168.29],[341645.11,6557174.69]]]},"properties":{"osm_id":45645886,"craft":"brewery","building":"yes","name":"3 brasseurs","name:en":null,"addr:housenumber":null,"addr:housename":null,"addr:street":null,"addr:city":null,"addr:state":null,"addr:postcode":null,"addr:place":null,"addr:country":null,"addr:hamlet":null,"addr:suburb":null,"addr:subdistrict":null,"addr:district":null,"addr:province":null,"website":null,"contact:website":null,"phone":null,"contact:phone":null,"opening_hours":null,"brand":null,"z_order":0}}
+]}

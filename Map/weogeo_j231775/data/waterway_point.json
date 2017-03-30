@@ -1,0 +1,6 @@
+{"name":"waterway_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8236034.37,4980844.1]},"properties":{"osm_id":357620562,"waterway":"dock","name":"Seventyninth Street Boat Basin","name:en":null,"water":null,"culvert":null,"harbour":null,"intermittent":null,"layer":null,"lock":null,"tunnel":null,"width":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8232663.86,4975291.45]},"properties":{"osm_id":357616840,"waterway":"dock","name":"Eleventh Street Basin","name:en":null,"water":null,"culvert":null,"harbour":null,"intermittent":null,"layer":null,"lock":null,"tunnel":null,"width":null,"z_order":null}}
+]}

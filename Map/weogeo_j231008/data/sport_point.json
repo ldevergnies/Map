@@ -1,0 +1,7 @@
+{"name":"sport_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8237302.3,4968290.48]},"properties":{"osm_id":1907754150,"sport":"canoe","name":null,"name:en":null,"access":null,"covered":null,"ref":null,"leisure":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8237234.65,4967529.8]},"properties":{"osm_id":2321103114,"sport":"racquet","name":null,"name:en":null,"access":null,"covered":null,"ref":null,"leisure":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238846.81,4969274.28]},"properties":{"osm_id":4408737750,"sport":"fitness","name":"Equinox Wall Street","name:en":null,"access":null,"covered":null,"ref":null,"leisure":"sports_centre","z_order":null}}
+]}

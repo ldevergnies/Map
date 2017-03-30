@@ -1,0 +1,7 @@
+{"name":"emergency_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[342199.97,6557272.3]},"properties":{"osm_id":3149374037,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[342402.32,6557192.16]},"properties":{"osm_id":3149374034,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[340486.94,6558145.65]},"properties":{"osm_id":3129482493,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+]}

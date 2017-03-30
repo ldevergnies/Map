@@ -1,0 +1,5 @@
+{"name":"waterway_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238863.82,4965719.36]},"properties":{"osm_id":357545544,"waterway":"dock","name":"Atlantic Basin","name:en":null,"water":null,"culvert":null,"harbour":null,"intermittent":null,"layer":null,"lock":null,"tunnel":null,"width":null,"z_order":null}}
+]}

@@ -1,0 +1,9 @@
+{"name":"emergency_line","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[341944.17,6557351.49],[341937.97,6557354.93],[341931.4,6557357.32],[341924.38,6557358.97],[341915.57,6557359.42],[341911.54,6557359.27],[341905.87,6557358.07],[341901.09,6557355.98],[341897.96,6557353],[341895.22,6557348.35],[341873.46,6557296.76],[341865.17,6557293.41],[341786.53,6557310],[341761.95,6557315.23],[341747.44,6557326.23]]},"properties":{"osm_id":49257460,"emergency":"yes","ref":null,"name":"Place des Buisses","name:en":null,"amenity":null,"operator":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[342437.6,6557291.69],[342397.12,6557307.45],[342362.15,6557321.62],[342273.96,6557356.02],[342233.36,6557372.01]]},"properties":{"osm_id":303247108,"emergency":"yes","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[342273.96,6557356.02],[342242.92,6557277.67]]},"properties":{"osm_id":303247123,"emergency":"yes","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[342362.15,6557321.62],[342332.49,6557241.23]]},"properties":{"osm_id":303247126,"emergency":"yes","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[342397.12,6557307.45],[342417.59,6557362.46],[342422.37,6557372.01],[342428.58,6557376.8],[342437.6,6557378.87],[342448.04,6557377.38],[342480.59,6557363.36],[342484.71,6557358.3],[342486.8,6557352.02],[342486.85,6557341.56],[342422.98,6557173.9]]},"properties":{"osm_id":303247099,"emergency":"yes","ref":null,"name":"Voie Pompier","name:en":null,"amenity":null,"operator":null,"z_order":0}}
+]}

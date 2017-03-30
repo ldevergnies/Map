@@ -1,0 +1,8 @@
+{"name":"waterway_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[338917.32,6559167.8]},"properties":{"osm_id":745841385,"waterway":"lock_gate","name":"Écluse du Grand Carré (Porte Amont)","name:en":"\"Grand-Carré","water":null,"culvert":null,"harbour":null,"intermittent":null,"layer":null,"lock":null,"tunnel":null,"width":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[339119.32,6559326.58]},"properties":{"osm_id":32258690,"waterway":"lock_gate","name":null,"name:en":null,"water":null,"culvert":null,"harbour":null,"intermittent":null,"layer":null,"lock":null,"tunnel":null,"width":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[339543.5,6557485.15]},"properties":{"osm_id":1922544940,"waterway":"lock_gate","name":null,"name:en":null,"water":null,"culvert":null,"harbour":null,"intermittent":null,"layer":null,"lock":null,"tunnel":null,"width":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[339606.4,6557513.71]},"properties":{"osm_id":1922544934,"waterway":"lock_gate","name":null,"name:en":null,"water":null,"culvert":null,"harbour":null,"intermittent":null,"layer":null,"lock":null,"tunnel":null,"width":null,"z_order":null}}
+]}

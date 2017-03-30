@@ -1,0 +1,15 @@
+{"name":"natural_line","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236553.41,4966671.27],[-8236583.78,4966611.16]]},"properties":{"osm_id":191322011,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236510.22,4966761.67],[-8236543.07,4966692.39]]},"properties":{"osm_id":191322014,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236463.04,4966855.42],[-8236493.74,4966789.88]]},"properties":{"osm_id":191322002,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236427.81,4967014.86],[-8236447.52,4966897.22]]},"properties":{"osm_id":191322013,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236411.31,4967185.8],[-8236414.08,4967117.57]]},"properties":{"osm_id":191322005,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236398.55,4967452.57],[-8236405.72,4967239.99]]},"properties":{"osm_id":191322012,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236396.16,4967599.48],[-8236399.74,4967483.04]]},"properties":{"osm_id":191322006,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236116.48,4967274.43],[-8236190.14,4967277.02]]},"properties":{"osm_id":191322009,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236066.5,4967271.73],[-8236095.52,4967272.91]]},"properties":{"osm_id":191322004,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236008.14,4967269],[-8236033.49,4967269.91]]},"properties":{"osm_id":191322007,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8235924.53,4967265.14],[-8235972.61,4967266.67]]},"properties":{"osm_id":191322008,"natural":"tree_row","name":null,"name:en":null,"type":null,"ele":null,"water":null,"wetland":null,"wood":null,"z_order":0}}
+]}

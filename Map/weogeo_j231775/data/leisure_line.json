@@ -1,0 +1,5 @@
+{"name":"leisure_line","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8236941.01,4978946.4],[-8236954.22,4978967.63],[-8236961.92,4978979.97]]},"properties":{"osm_id":379804451,"leisure":"slipway","name":null,"name:en":null,"type":null,"brand":null,"access":null,"harbour":null,"water":null,"sport":null,"barrier":null,"ele":null,"building":null,"surface":null,"z_order":0}}
+]}

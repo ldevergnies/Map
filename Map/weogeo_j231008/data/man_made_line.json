@@ -1,0 +1,6 @@
+{"name":"man_made_line","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8239626.44,4968812.11],[-8239633.5,4968789.13],[-8239621.36,4968785.46],[-8239624.6,4968773.87]]},"properties":{"osm_id":136172863,"man_made":"pier","name":null,"name:en":null,"building":null,"type":null,"ref":null,"ele":null,"height":null,"tower:type":null,"operator":null,"z_order":0}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-8237106.04,4968713.89],[-8237093.03,4968700.35],[-8237096.11,4968696.5]]},"properties":{"osm_id":308179976,"man_made":"pier","name":null,"name:en":null,"building":null,"type":null,"ref":null,"ele":null,"height":null,"tower:type":null,"operator":null,"z_order":0}}
+]}

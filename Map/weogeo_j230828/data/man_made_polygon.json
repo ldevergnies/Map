@@ -1,0 +1,5 @@
+{"name":"man_made_polygon","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[340568.51,6556771.75],[340612.88,6556795.59],[340648.56,6556745.52],[340620.23,6556726.77],[340604.65,6556740.3],[340568.51,6556771.75]]]},"properties":{"osm_id":42463191,"man_made":"telephone_office","name":"Central téléphonique","name:en":null,"building":"yes","type":null,"ref":null,"ele":null,"height":null,"tower:type":null,"operator":"France Telecom","z_order":0}}
+]}

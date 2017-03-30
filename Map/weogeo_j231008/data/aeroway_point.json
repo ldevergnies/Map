@@ -1,0 +1,6 @@
+{"name":"aeroway_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238672.72,4968432.35]},"properties":{"osm_id":4205729795,"aeroway":"helipad","name":"BLADE Lounge Wall Street","name:en":null,"operator":null,"ref":null,"faa":null,"iata":null,"icao":null,"website":"www.flyblade.com","contact:website":null,"phone":"+1 844 359 2523","contact:phone":null,"ele":null,"tower:type":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8237833.53,4969988.13]},"properties":{"osm_id":369043797,"aeroway":"helipad","name":"One Police Plaza Helipad","name:en":null,"operator":"New York City Police Department","ref":null,"faa":null,"iata":null,"icao":null,"website":null,"contact:website":null,"phone":null,"contact:phone":null,"ele":"6","tower:type":null,"z_order":null}}
+]}

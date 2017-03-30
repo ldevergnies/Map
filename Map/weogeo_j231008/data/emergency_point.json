@@ -1,0 +1,25 @@
+{"name":"emergency_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238935.97,4968641.96]},"properties":{"osm_id":3594955383,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238695.16,4968730.16]},"properties":{"osm_id":3584365150,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238648.53,4968774.15]},"properties":{"osm_id":3584365151,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238547.54,4968861.46]},"properties":{"osm_id":3584365152,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238471.59,4969268.1]},"properties":{"osm_id":3586711283,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238471.29,4969072.99]},"properties":{"osm_id":3584365154,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238452.9,4969247.16]},"properties":{"osm_id":3586711282,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238404.02,4969197.98]},"properties":{"osm_id":3586711281,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238379.76,4969173.54]},"properties":{"osm_id":3586711280,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238345.7,4969046.78]},"properties":{"osm_id":3584365153,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238326.19,4969120.01]},"properties":{"osm_id":3586711279,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8238289.06,4969099.62]},"properties":{"osm_id":3584365155,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8237093.6,4967566.01]},"properties":{"osm_id":2322155475,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8237058.58,4967625.75]},"properties":{"osm_id":2322155474,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8237014.79,4967701.66]},"properties":{"osm_id":2322155480,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8236366.57,4967598.15]},"properties":{"osm_id":3586711278,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8236351.36,4967653.84]},"properties":{"osm_id":3578637671,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8236265.77,4970105.2]},"properties":{"osm_id":2826551489,"emergency":"no","ref":null,"name":"Gouverneur Health Medical Center","name:en":null,"amenity":"hospital","operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8236196.93,4967580.13]},"properties":{"osm_id":3595025049,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8236189.45,4968093.84]},"properties":{"osm_id":3595025050,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8236105.99,4968172.48]},"properties":{"osm_id":3595025051,"emergency":"fire_hydrant","ref":null,"name":null,"name:en":null,"amenity":null,"operator":null,"z_order":null}}
+]}

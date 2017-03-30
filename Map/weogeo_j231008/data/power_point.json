@@ -1,0 +1,5 @@
+{"name":"power_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8235861.98,4968757.68]},"properties":{"osm_id":3469169229,"power":"transformer","power_source":null,"generator:source":null,"layer":null,"z_order":null}}
+]}

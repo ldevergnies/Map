@@ -1,0 +1,5 @@
+{"name":"landuse_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8239461.34,4965439.16]},"properties":{"osm_id":3154320987,"landuse":"Cruise ship dock","construction":null,"water":null,"wood":null,"amenity":null,"leisure":null,"tourism":null,"name":null,"name:en":null,"operator":null,"disused":null,"z_order":null}}
+]}

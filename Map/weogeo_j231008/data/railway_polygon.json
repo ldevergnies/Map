@@ -1,0 +1,5 @@
+{"name":"railway_polygon","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-8238972.96,4969921.26],[-8238968.43,4969930.9],[-8238957.98,4969937.89],[-8238944.55,4969936.84],[-8238929.73,4969931.07],[-8238916.32,4969923.91],[-8238902.03,4969914.62],[-8238888.6,4969903.43],[-8238864.87,4969877.92],[-8238856.36,4969863.72],[-8238852.34,4969849.9],[-8238856.35,4969842.21],[-8238865.59,4969835.38],[-8238880.23,4969836.77],[-8238907.5,4969846.76],[-8238931.7,4969863.44],[-8238943.85,4969873.68],[-8238955.18,4969885.22],[-8238963.9,4969896.6],[-8238971.39,4969909.19],[-8238972.96,4969921.26]]]},"properties":{"osm_id":278033606,"railway":"station","name":"World Trade Center Transportation Hub - Oculus","name:en":null,"ref":null,"service":null,"tracks":null,"bridge":null,"tunnel":null,"operator":null,"maxspeed":null,"public_transport":null,"layer":null,"disused":null,"z_order":5}}
+]}

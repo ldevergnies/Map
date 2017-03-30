@@ -1,0 +1,5 @@
+{"name":"sport_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[339294.65,6558885.86]},"properties":{"osm_id":3207498554,"sport":"multi","name":"Plaine des Sports","name:en":null,"access":null,"covered":null,"ref":null,"leisure":"pitch","z_order":null}}
+]}

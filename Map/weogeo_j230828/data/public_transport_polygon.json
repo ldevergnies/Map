@@ -1,0 +1,5 @@
+{"name":"public_transport_polygon","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[341800.74,6557337.48],[341868.27,6557388.68],[341872.08,6557384.91],[341805.17,6557334.18],[341800.74,6557337.48]]]},"properties":{"osm_id":28593703,"public_transport":"platform","name":"Gare Lille Flandres","name:en":null,"ref":null,"route_ref":null,"operator":null,"network":null,"train":null,"subway":null,"monorail":null,"tram":null,"bus":"yes","trolleybus":null,"aerialway":null,"ferry":null,"shelter":null,"bench":null,"covered":null,"area":null,"z_order":0}}
+]}

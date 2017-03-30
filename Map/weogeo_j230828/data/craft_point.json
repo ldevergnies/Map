@@ -1,0 +1,6 @@
+{"name":"craft_point","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[340299.68,6556191.69]},"properties":{"osm_id":4405074751,"craft":"shoemaker","building":null,"name":"Cordonnerie artisanale","name:en":null,"addr:housenumber":null,"addr:housename":null,"addr:street":null,"addr:city":null,"addr:state":null,"addr:postcode":null,"addr:place":null,"addr:country":null,"addr:hamlet":null,"addr:suburb":null,"addr:subdistrict":null,"addr:district":null,"addr:province":null,"website":null,"contact:website":null,"phone":null,"contact:phone":null,"opening_hours":null,"brand":null,"z_order":null}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[341321.45,6557087.5]},"properties":{"osm_id":1538514289,"craft":"photographic_laboratory","building":null,"name":null,"name:en":null,"addr:housenumber":null,"addr:housename":null,"addr:street":null,"addr:city":null,"addr:state":null,"addr:postcode":null,"addr:place":null,"addr:country":null,"addr:hamlet":null,"addr:suburb":null,"addr:subdistrict":null,"addr:district":null,"addr:province":null,"website":null,"contact:website":null,"phone":null,"contact:phone":null,"opening_hours":null,"brand":null,"z_order":null}}
+]}
