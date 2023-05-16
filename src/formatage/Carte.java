@@ -47,7 +47,7 @@ public class Carte {
 				try {
 					Line lineTmp = gson.fromJson(new FileReader(path), Line.class);
 					for (int i = 0; i < lineTmp.getFeatures().length; i++) {
-						String type = path.substring(path.lastIndexOf('\\')+1, path.lastIndexOf('_'));
+						String type = path.substring(path.lastIndexOf('/')+1, path.lastIndexOf('_'));
 						lineTmp.getFeatures()[i].setType(FeatureEnum.valueOf(type));
 						lignes.add(new Ligne(lineTmp.getFeatures()[i]));
 					}
@@ -61,7 +61,7 @@ public class Carte {
 				try {
 					Polygon polygonTmp = gson.fromJson(new FileReader(path), Polygon.class);
 					for (int i = 0; i < polygonTmp.getFeatures().length; i++) {
-						String type = path.substring(path.lastIndexOf('\\')+1, path.lastIndexOf('_'));
+						String type = path.substring(path.lastIndexOf('/')+1, path.lastIndexOf('_'));
 						polygonTmp.getFeatures()[i].setType(FeatureEnum.valueOf(type));
 						polygones.add(new Polygone(polygonTmp.getFeatures()[i]));
 					}
