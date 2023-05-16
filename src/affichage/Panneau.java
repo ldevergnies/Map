@@ -34,7 +34,7 @@ public class Panneau extends JPanel implements MouseListener, MouseMotionListene
 		super();
 		this.addMouseListener(this);
 		this.addMouseMotionListener(this);
-		this.carte = new Carte(new File("weogeo_j230828\\data"));
+		this.carte = new Carte(new File("weogeo_j230828/data"));
 	}
 	
 	public Panneau (String path) {
